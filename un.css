@@ -1,0 +1,58 @@
+ textarea 
+{
+    display:inline;
+    position:absolute;
+    background-color: lightblue;
+    border:5px solid black;
+    margin-left: ;
+    margin-top: 60px;
+}   
+html {
+    height: 100%;
+}
+
+body{
+    background-color: rgb(217, 245, 245);
+    background-image: ("bck.jpg");
+    height: 100%;
+    width:100%;
+    margin-bottom: ;
+}
+
+
+ 
+
+
+/* div{
+    display: block;
+    margin:50px;
+    align-items:center;
+    background-color: burlywood;
+} */
+
+/* .form-control
+{
+    color:black;
+    margin-top: 90px;
+
+    
+    margin-top: 90px;
+   float : left;
+   
+     background-color: rgb(233, 167, 167); 
+     border: 5px solid black;
+     margin-left: 170px;
+    
+}
+.form-control2
+{
+    background-color: cyan;
+    margin-top: 90px;
+
+  
+   float : left;
+  
+     background-color: rgb(233, 170, 170); 
+     border: 5px solid black;
+     margin-left: 170px;
+}  */

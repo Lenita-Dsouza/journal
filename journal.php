@@ -18,7 +18,7 @@
             background-repeat: no-repeat;
             background-attachment: fixed;
             background-size: cover; 
-    
+           margin:0px;
             background-color: aqua;
             height: 100%;
             width: 100%;
@@ -50,14 +50,21 @@
         }
         button{
             background-color: rgb(217, 245, 245);;
-    size: 4%;
-    color:black;
-     
-  
-    border:5px solid black;
-    padding:2%;
-    font-size: 14;;
+           size: 2%;
+           color:black;
+           border:2px solid black;
+          padding:1%;
+          font-size: 14;;
 
+}
+a
+{
+    color:black;
+    background-color: rgb(217, 245, 245);;
+    margin-left:700px;
+    padding:0%;
+    border:2px solid black;
+    margin-bottom:100px;
 }
     </style>
 </head>
@@ -88,7 +95,9 @@
         </p>
 
         </form>
+       
         </div>
+        <a href="login.php"><b>LOGOUT</b></a>
     
 </body>
 
